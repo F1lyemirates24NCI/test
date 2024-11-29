@@ -1,0 +1,29 @@
+.fixed{
+  width: 60px;
+  height: 200px;
+  background: red;
+  position: fixed;
+  left: 0px;
+  top: 90px;
+}
+
+.wrapper {
+  width: 900px;
+  height:600px;
+  background-color: #c2c2d6; /* light grey blue colour */
+}
+
+.relative {
+  width:100px;
+  height:100px;
+  background-color: #ace600;/*green*/
+  position: relative; /*the div he is in */
+  top: 200px;
+  left: 400px;
+}
+
+.norm {
+  width:100px;
+  height:100px;
+  background-color:  #ff00ff; /* pink */
+}
